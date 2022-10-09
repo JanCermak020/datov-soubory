@@ -1,4 +1,4 @@
 {
-    "movies":[{"name": "Dune","year": 2021 , "genres":[{"name":"Action"},{"name":"Adveture"},{"name":"Drama"}],"countries":[{"name":"czech republic"},{"name":"england"}]}
+    "movie":[{"name": "Dune","year": 2021 , "genres":[{"name":"Action"},{"name":"Adveture"},{"name":"Drama"}],"countries":[{"name":"czech republic"},{"name":"england"}]}
 
 ]}
