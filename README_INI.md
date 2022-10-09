@@ -1,4 +1,4 @@
-- [movie]: 
+- [movie]: jednotlivy film
 - name: nazev filmu
 - year: rok vydani
 - genre: pole zanru
