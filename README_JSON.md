@@ -1,1 +1,5 @@
-
+movie: jednotlivy film
+name: nazev filmu
+year: rok vydani
+genres: pole zanru
+coutries: pole zemi
