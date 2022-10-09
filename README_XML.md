@@ -7,3 +7,4 @@
 - &lt;coutries>: obsahuje zeme,potomek movie
 - &lt;coutry>:obsahuje atributy,potomek countries
 - &lt;c_name>: nazev zeme,potomek country
+- &lt;year>: rok vydani,potomek movie
