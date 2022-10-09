@@ -1,1 +1,5 @@
-
+- [movie]: 
+- name: nazev filmu
+- year: rok vydani
+- genre: pole zanru
+- coutry: pole zemi
