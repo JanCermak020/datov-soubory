@@ -1,0 +1,25 @@
+<movies>
+    <movie id="1">
+        <name>dune</name>
+        <genres>
+            <genre id="1">
+                <g_name>action</g_name>
+            </genre>
+            <genre id="2">
+                <g_name>drama</g_name>
+            </genre>
+            <genre id="3">
+                <g_name>adveture</g_name>
+            </genre>
+        </genres>
+        <year>2021</year>
+        <countries>
+            <country id="1">
+                <c_name>czech republic</c_name>
+            </country>
+            <country id="2">
+                <c_name>england</c_name>
+            </country>
+        </countries>
+    </movie>
+</movies>
